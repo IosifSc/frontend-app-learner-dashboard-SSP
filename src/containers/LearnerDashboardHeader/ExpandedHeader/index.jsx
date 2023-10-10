@@ -34,9 +34,17 @@ export const ExpandedHeader = () => {
         >
           {formatMessage(messages.course)}
         </Button>
-        <Button
+	{/*<Button
           as="a"
           href={urls.baseAppUrl(courseSearchUrl)}
+          variant="inverse-primary"
+          className="p-4"
+        >
+          {formatMessage(messages.discoverNew)}
+        </Button>*/}
+	<Button
+          as="a"
+          href="https://www.spainspecialistprogram.com/cursos/"
           variant="inverse-primary"
           className="p-4"
         >

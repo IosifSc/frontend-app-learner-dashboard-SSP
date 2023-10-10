@@ -25,10 +25,18 @@ export const NoCoursesView = () => {
       <p>
         {formatMessage(messages.exploreCoursesPrompt)}
       </p>
-      <Button
+	{/*<Button
         variant="brand"
         as="a"
         href={baseAppUrl(courseSearchUrl)}
+        iconBefore={Search}
+      >
+        {formatMessage(messages.exploreCoursesButton)}
+      </Button>*/}
+	<Button
+        variant="brand"
+        as="a"
+        href="https://www.spainspecialistprogram.com/cursos/"
         iconBefore={Search}
       >
         {formatMessage(messages.exploreCoursesButton)}

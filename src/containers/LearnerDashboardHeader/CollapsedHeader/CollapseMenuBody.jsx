@@ -29,14 +29,21 @@ export const CollapseMenuBody = ({ isOpen }) => {
         <Button as="a" href="/" variant="inverse-primary">
           {formatMessage(messages.course)}
         </Button>
-        <Button
+	{/* <Button
           as="a"
           href={urls.baseAppUrl(courseSearchUrl)}
           variant="inverse-primary"
         >
           {formatMessage(messages.discoverNew)}
+        </Button>*/}
+         <Button
+          as="a"
+          href="https://www.spainspecialistprogram.com/cursos/"
+          variant="inverse-primary"
+        >
+          {formatMessage(messages.discoverNew)}
         </Button>
-        <Button as="a" href={getConfig().SUPPORT_URL} variant="inverse-primary">
+	<Button as="a" href={getConfig().SUPPORT_URL} variant="inverse-primary">
           {formatMessage(messages.help)}
         </Button>
         {authenticatedUser && (

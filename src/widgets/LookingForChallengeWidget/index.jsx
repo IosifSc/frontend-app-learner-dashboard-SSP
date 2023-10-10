@@ -28,10 +28,18 @@ export const LookingForChallengeWidget = () => {
           {formatMessage(messages.lookingForChallengePrompt)}
         </h4>
         <h5>
-          <Hyperlink
+	  {/*<Hyperlink
             variant="brand"
             destination={baseAppUrl(courseSearchUrl)}
             onClick={track.findCoursesWidgetClicked(baseAppUrl(courseSearchUrl))}
+            className="d-flex align-items-center"
+          >
+            {formatMessage(messages.findCoursesButton, { arrow: arrowIcon })}
+          </Hyperlink> */}
+	  <Hyperlink
+            variant="brand"
+            destination="https://www.spainspecialistprogram.com/cursos/"
+            onClick="https://www.spainspecialistprogram.com/cursos/"
             className="d-flex align-items-center"
           >
             {formatMessage(messages.findCoursesButton, { arrow: arrowIcon })}
