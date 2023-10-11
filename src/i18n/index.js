@@ -7,7 +7,7 @@ import frMessages from './messages/fr.json';
 import frcaMessages from './messages/fr_CA.json';
 import ptbrMessages from './messages/pt_BR.json';
 import zhcnMessages from './messages/zh_CN.json';
-// Personalzados idomas SSP
+// Idiomas Personalizadosº SSP
 import esMessages from './messages/es.json';
 
 const appMessages = {
