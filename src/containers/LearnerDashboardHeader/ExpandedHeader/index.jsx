@@ -44,7 +44,7 @@ export const ExpandedHeader = () => {
         </Button>*/}
 	<Button
           as="a"
-          href="https://www.spainspecialistprogram.com/cursos/"
+          href="https://pre.spainspecialistprogram.com/cursos/"
           variant="inverse-primary"
           className="p-4"
         >

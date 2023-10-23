@@ -36,7 +36,7 @@ export const NoCoursesView = () => {
 	<Button
         variant="brand"
         as="a"
-        href="https://www.spainspecialistprogram.com/cursos/"
+        href="https://pre.spainspecialistprogram.com/cursos/"
         iconBefore={Search}
       >
         {formatMessage(messages.exploreCoursesButton)}
