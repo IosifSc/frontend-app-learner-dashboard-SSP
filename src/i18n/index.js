@@ -9,6 +9,17 @@ import ptbrMessages from './messages/pt_BR.json';
 import zhcnMessages from './messages/zh_CN.json';
 // Idiomas Personalizadosº SSP
 import esMessages from './messages/es.json';
+import deMessages from './messages/de_DE.json';
+import itITMessages from './messages/it_IT.json';
+import plMessages from './messages/pl.json';
+import ptPTMessages from './messages/pt_PT.json';
+import ruMessages from './messages/ru.json';
+import zhcnMessages from './messages/zh_CN.json';
+import koKRMessages from './messages/ko_KR.json';
+import nbMessages from './messages/nb.json';
+import nlNLMessages from './messages/nl_NL.json';
+import thMessages from './messages/th.json';
+
 
 const appMessages = {
   ar: arMessages,
@@ -18,6 +29,16 @@ const appMessages = {
   'pt-br': ptbrMessages,
   'zh-cn': zhcnMessages,
   es: esMessages,
+  de: deMessages,
+  'it-it': itITMessages,
+  pl: plMessages,
+  'zh-cn': zhcnMessages,
+  'pt-pt': ptPTMessages,
+  ru: ruMessages,
+  'ko-kr': koKRMessages,
+  'nb': nbMessages,
+  'nl-nl': nlNLMessages,
+  'th': thMessages,
 };
 
 export default [
