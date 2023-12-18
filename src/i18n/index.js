@@ -1,11 +1,11 @@
 import { messages as footerMessages } from '@edx/frontend-component-footer';
 
-import arMessages from './messages/ar.json';
+import arMessages from './messages/no_usadas_ssp/ar.json';
 // no need to import en messages-- they are in the defaultMessage field
-import es419Messages from './messages/es_419.json';
+import es419Messages from './messages/no_usadas_ssp/es_419.json';
 import frMessages from './messages/fr.json';
-import frcaMessages from './messages/fr_CA.json';
-import ptbrMessages from './messages/pt_BR.json';
+import frcaMessages from './messages/no_usadas_ssp/fr_CA.json';
+import ptbrMessages from './messages/no_usadas_ssp/pt_BR.json';
 import zhcnMessages from './messages/zh_CN.json';
 // Idiomas Personalizadosº SSP
 import esMessages from './messages/es.json';
