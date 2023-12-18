@@ -14,7 +14,6 @@ import itITMessages from './messages/it_IT.json';
 import plMessages from './messages/pl.json';
 import ptPTMessages from './messages/pt_PT.json';
 import ruMessages from './messages/ru.json';
-import zhcnMessages from './messages/zh_CN.json';
 import koKRMessages from './messages/ko_KR.json';
 import nbMessages from './messages/nb.json';
 import nlNLMessages from './messages/nl_NL.json';
