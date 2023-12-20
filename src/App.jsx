@@ -75,7 +75,7 @@ export const App = () => {
     <Router>
       <Helmet>
         <title>{formatMessage(messages.pageTitle)}</title>
-	<link rel="icon" type="image/x-icon" href="/static/ssp202106/images/favicon.ico"/>
+	<link rel="icon" type="image/x-icon" href="https://campus.pre.spainspecialistprogram.com/static/ssp202106/images/favicon.ico"/>
       </Helmet>
       <div>
         <LearnerDashboardHeader />
