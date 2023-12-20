@@ -24,7 +24,7 @@ export const BrandLogo = () => {
     <a href={dashboard?.url || '/'} className="mx-auto">
       <img
         className="logo py-3"
-        src={process.env.LOGO_POWERED_BY_OPEN_EDX_URL_SVG}
+        src="https://campus.pre.spainspecialistprogram.com/theming/asset/images/logo.png"
         alt={formatMessage(messages.logoAltText)}
       />
     </a>
