@@ -28,7 +28,7 @@ const appMessages = {
   'pt-br': ptbrMessages,
   'zh-cn': zhcnMessages,
   es: esMessages,
-  de: deMessages,
+  'de-de': deMessages,
   'it-it': itITMessages,
   pl: plMessages,
   'zh-cn': zhcnMessages,
