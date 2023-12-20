@@ -31,7 +31,6 @@ const appMessages = {
   'de-de': deMessages,
   'it-it': itITMessages,
   pl: plMessages,
-  'zh-cn': zhcnMessages,
   'pt-pt': ptPTMessages,
   ru: ruMessages,
   'ko-kr': koKRMessages,
