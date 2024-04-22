@@ -38,7 +38,7 @@ export const CollapseMenuBody = ({ isOpen }) => {
         </Button>*/}
          <Button
           as="a"
-          href="https://pre.spainspecialistprogram.com/cursos/"
+          href="https://www.spainspecialistprogram.com/cursos/"
           variant="inverse-primary"
         >
           {formatMessage(messages.discoverNew)}

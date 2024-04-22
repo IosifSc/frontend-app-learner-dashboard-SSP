@@ -38,8 +38,8 @@ export const LookingForChallengeWidget = () => {
           </Hyperlink> */}
 	  <Hyperlink
             variant="brand"
-            destination="https://pre.spainspecialistprogram.com/cursos/"
-            onClick="https://pre.spainspecialistprogram.com/cursos/"
+            destination="https://www.spainspecialistprogram.com/cursos/"
+            onClick="https://www.spainspecialistprogram.com/cursos/"
             className="d-flex align-items-center"
           >
             {formatMessage(messages.findCoursesButton, { arrow: arrowIcon })}
